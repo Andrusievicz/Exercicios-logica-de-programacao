@@ -1,3 +1,2 @@
-### Exerc-cios-Logica-de-Programa-o
-# Exerc-cios-Logica-de-Programa-o
-Meus exercícios de logica de programação no Senai-PR
+# Exercicios-logica-de-programacao
+Meus exercícios de logica de programação no portugol(visualg) do Senai-PR
